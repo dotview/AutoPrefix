@@ -27,3 +27,7 @@ html+='        </td>';
 html+='      </tr>';
 html+='    </table>';
 html+='  </div>';
+
+
+使用：
+=> node format.js
